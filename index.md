@@ -5,3 +5,4 @@
 #####This is a test line of 5
 ## This is a test line of 2 hashes
 ###### This is a test line of 6
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
